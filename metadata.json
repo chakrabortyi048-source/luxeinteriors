@@ -1,0 +1,6 @@
+{
+  "name": "LuxeInteriors",
+  "description": "An elegant and modern interior design website for LuxeInteriors featuring a room gallery, contact form, and visual design showcases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
